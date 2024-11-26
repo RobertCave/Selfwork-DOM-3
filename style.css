@@ -1,0 +1,27 @@
+.container {
+    margin: 0 auto;
+    
+}
+input, textarea, button {
+    width: 70%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+
+.output {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+
+
+.rosso {
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+    margin-top: 20px;
+}
